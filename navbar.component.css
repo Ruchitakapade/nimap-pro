@@ -1,0 +1,27 @@
+
+
+
+.spacer{
+    flex:1 1 auto;
+
+}
+.Container{
+    margin-left: 200px;
+    padding: 50px;
+    border: 1px;
+}
+.leftside{
+  margin: auto;
+}
+.example-card {
+    max-width: 400px;
+
+  }
+  .example-header-image {
+    background-image: url('src/app/child.jpg');
+    background-size: cover;
+  }
+  .right{
+    margin-right: 40px;
+    display: inline-block
+  }
